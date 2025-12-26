@@ -1,6 +1,6 @@
 # 32-bit Preemptive Multitasking Kernel with MLFQ Scheduler
 
-**Student Name:** [Your Name]
+**Student Name:** Muhmmad Hasnain
 **Course:** Operating Systems
 **Date:** December 2025
 
